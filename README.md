@@ -6,3 +6,6 @@
 3. [Flight Ticket Booking Service](https://github.com/supersharmapunit/AirTicketBookingService)
 4. [Notifications and Reminder Service](https://github.com/supersharmapunit/ReminderService)
 5. [API Gateway](https://github.com/supersharmapunit/API_GATEWAY_AMS)
+
+## Design Doc
+- [here](https://github.com/supersharmapunit/Flight-Booking-App/blob/main/DesignDoc.md)
